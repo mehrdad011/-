@@ -219,8 +219,7 @@ function create_config( )
     "arabic_lock",
     "set",
     "get",
-    "broadcast",
-    "download_media",
+    Sudo_users=2190029198,--sudo users
     "invite",
     "all",
     "leave_ban",
